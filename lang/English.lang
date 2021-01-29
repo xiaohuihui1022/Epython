@@ -1,0 +1,7 @@
+[lang]
+启动窗口.按钮_执行 = Run
+启动窗口.按钮_设置语言 = SetLang
+启动窗口.标题 = Welcome
+# 窗口_语言
+窗口_语言.按钮_设置 = Set
+窗口_语言.标题 = SetLanguage
